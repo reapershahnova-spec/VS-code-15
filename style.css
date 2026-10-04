@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightcyan;
+    text-align: center;
+    padding: 35px;
+}
+
+h1 {
+    color: darkcyan;
+}
+
+button {
+    background-color: teal;
+    color: white;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+div {
+    border: 1px solid teal;
+    width: 300px;
+    margin: 7px auto;
+    padding: 9px 14px;
+    text-align: left;
+    border-radius: 8px;
+    background-color: white;
+}
